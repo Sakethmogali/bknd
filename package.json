@@ -1,0 +1,23 @@
+{
+  "name": "bknd",
+  "version": "1.0.0",
+  "description": "Learning bcknd stuff",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakethmogali/bknd.git"
+  },
+  "author": "Saketh Mogali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sakethmogali/bknd/issues"
+  },
+  "homepage": "https://github.com/Sakethmogali/bknd#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
